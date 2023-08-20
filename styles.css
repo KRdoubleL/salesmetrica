@@ -1,0 +1,20 @@
+body {
+  background-color: #ffffff;
+}
+
+.header {
+  background-color: green;
+}
+
+.main-header_logo img{
+  width: 210px;
+  background-color: black;
+}
+
+.main {
+  background-color: yellow;
+}
+
+.footer {
+  background-color: red;
+}
